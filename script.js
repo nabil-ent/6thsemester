@@ -1,7 +1,7 @@
 // Countdown Timer Configuration
 const COUNTDOWN_CONFIG = {
-  targetMonth: 6, // August (0-based)
-  targetDay: 19,
+  targetMonth: 7, // August (0-based)
+  targetDay: 6,
   updateInterval: 1000, // Update every second
   localStorageKey: 'countdownData',
 };
